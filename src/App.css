@@ -32,6 +32,20 @@
 
 
 .App-header {
+  background-color: rgb(236, 16, 16);
+  background-position: center;
+  background-repeat: no-repeat;
+  flex: 0.5;
+  height: 100%;
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.App-header1 {
+  background-image: url(design/App\ Content-01.png);
+  background-position: left;
+  background-repeat: no-repeat;
   flex: 1;
 
   background-color: #4998ffd5;
@@ -99,7 +113,8 @@
 
 .App-content {
   flex: 12;
-
+  width: 100%;
+  overflow: auto;
   
   background-image: url(background_01.gif);
 

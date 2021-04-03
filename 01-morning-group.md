@@ -45,14 +45,7 @@ Repo: https://github.com/natchaphonforstudy/pwa-course-2021
 1. 1620701795 natchaphonforstudy
 2. 1620701894 Ratpakorn
 3. 1620702132 TeerathepS
-
-----------------------------
-
-Repo: https://github.com/Kittapas24/pwa-course-2021
-
-1. 1620701589 Kittapas24
-2. 1620701690 Thanaphat1150
-3. 1620701258 krittaporn
+4. 1600700924 chatchaiphat924
 
 ----------------------------
 
