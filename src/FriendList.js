@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom'
 import backButton from './back_button.png'
 import './FriendList.css';
 
-
 function FriendList() {
 return (
 
@@ -28,7 +27,7 @@ return (
                </div>
         </div>
     </div>
-       
+        
     )
 }
 

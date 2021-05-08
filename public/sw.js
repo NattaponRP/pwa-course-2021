@@ -1,3 +1,4 @@
-self.addEventListener("install",(event)=>{
-    console.log("[SW] Serveice Worker is installing...)
+self.addEventListener("install", (event) => {
+    console.log("[SW] Service Worker is installing...");
 })
+

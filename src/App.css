@@ -50,6 +50,7 @@
   background-repeat: no-repeat;
   flex: 1;
 
+  height: 100px;
   background-color: #4998ffd5;
 
   display: flex;
