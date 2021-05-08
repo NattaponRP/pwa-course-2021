@@ -34,14 +34,14 @@
 
 
 .App-header {
-  background-color: rgb(236, 16, 16);
+  background-color: rgb(145, 176, 245);
   background-position: center;
   background-repeat: no-repeat;
   flex: 0.5;
   height: 100%;
   vertical-align: middle;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   display: flex;
 }
 .App-header1 {
