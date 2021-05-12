@@ -41,7 +41,7 @@
   height: 100%;
   vertical-align: middle;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   display: flex;
 }
 
@@ -53,7 +53,7 @@
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4998ffd5;
+  background-color: #338bffd5;
   color: white;
   padding: 16px;
   font-size: 16px;

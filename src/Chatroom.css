@@ -36,10 +36,10 @@
   background-color: #4998ffd5;
 
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   text-align: left;
   align-items: left;
-  justify-content: center;
+  justify-content: left;
   font-size: calc(10px + 2vmin);
   color: rgb(230, 230, 230);
 }

@@ -6,11 +6,15 @@ import Chatbox from './Chatbox';
 import FriendProfile from "./FriendProfile";
 import Profile from "./Profile";
 import FlexShow from "./FlexShow";
+import Main from "./Main";
+import App from "./App";
+
 function Router() {
 
     return (
         <BrowserRouter>
             <Switch>
+
                 <Route path="/friend-list">
                     <FriendList />    
                 </Route>
@@ -23,16 +27,13 @@ function Router() {
                 <Route path="/friend-profile">
                     <FriendProfile />
                 </Route>
-                <Route path="/">
+                <Route path="/Chatbox">
                     <Chatbox />
                 </Route>
-                <Route path ="/profile">
-                    <Profile />
+                <Route path ="/">
+                    <Main />
                 </Route>
 
-                <Route path ="/FlexShow">
-                    <FlexShow />
-                </Route>
             </Switch> 
         </BrowserRouter>
     )
